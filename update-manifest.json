@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "type": "bugfix",
+  "description": "Test automatic bugfix OTA update.",
+  "downloadUrl": "https://github.com/crosswirelabs/Ubiqon-Releases/releases/download/v1.0.1/ubiqon-v1.0.1-linux-arm.tar.gz",
+  "sha256": "c039f47aaf103b4dba6f331b17b01447cf66ab45448ef16977a913009472cc0d"
+}
