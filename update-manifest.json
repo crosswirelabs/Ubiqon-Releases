@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "bugfix",
-  "description": "Stable release.",
-  "downloadUrl": "https://github.com/crosswirelabs/Ubiqon-Releases/releases/download/v1.0.2/ubiqon-v1.0.2-linux-arm.tar.gz",
-  "sha256": "E9298CEF3F86AAAD9254C9BEE461AAAE730F168F026C186C8DC1BE64F42169AA"
+  "description": "OTA automatic rollback test.",
+  "downloadUrl": "https://github.com/crosswirelabs/Ubiqon-Releases/releases/download/v1.0.3/ubiqon-v1.0.3-linux-arm.tar.gz",
+  "sha256": "BDB605F8E958B1E19A7A40E20D93E312007B8100B048633FD614B8DF6CA11B64"
 }
