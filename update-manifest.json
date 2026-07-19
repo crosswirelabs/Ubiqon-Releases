@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "type": "bugfix",
-  "description": "OTA reliability improvements and failed update protection.",
-  "downloadUrl": "https://github.com/crosswirelabs/Ubiqon-Releases/releases/download/v1.0.4/ubiqon-v1.0.4-linux-arm.tar.gz",
-  "sha256": "D86A371DE0C66E9CE3AF0FBB39801B2D99D663C6511A660B3405CF1E462F5DD9"
+  "version": "1.0.5",
+  "type": "feature",
+  "description": "Introduces the new Software Update system with secure OTA updates, automatic health checks, release information, persistent update status, and automatic rollback protection.",
+  "downloadUrl": "https://github.com/crosswirelabs/Ubiqon-Releases/releases/download/v1.0.5/ubiqon-1.0.5.tar.gz",
+  "sha256": "77BC847E2311972C5A05F1EB6831896C3F0FC87A7F5E0C908698D66843653612"
 }
