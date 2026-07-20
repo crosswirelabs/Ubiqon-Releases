@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "type": "bugfix",
-  "description": "Bug fixes and reliability improvements for the Ubiqon OTA update system.",
-  "downloadUrl": "https://github.com/crosswirelabs/Ubiqon-Releases/releases/download/v1.0.6/ubiqon-1.0.6.tar.gz",
+  "description": "OTA automatic update and restart reliability test.",
+  "downloadUrl": "https://github.com/crosswirelabs/Ubiqon-Releases/releases/download/v1.0.7/ubiqon-1.0.7.tar.gz",
   "sha256": "FDB5907D582753811651CB1535AAD0688ACA0956FFDBF4D527B73F59D485BBEB"
 }
