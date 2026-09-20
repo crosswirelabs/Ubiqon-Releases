@@ -1,7 +1,7 @@
 {
   "version": "1.0.8",
   "type": "bugfix",
-  "description": "test",
+  "description": "test fix",
   "assets": {
     "linux-arm": {
       "downloadUrl": "https://github.com/crosswirelabs/Ubiqon-Releases/releases/download/v1.0.8/Ubiqon-1.0.8-linux-arm.tar.gz",
@@ -14,6 +14,6 @@
   },
   "minimumVersion": "1.0",
   "restartRequired": true,
-  "targetMachineId": "E2EB48B37C8330B77E74B316DB4E41BA45792CB51ED2235CCEE4857ED68F5583",
-  "releasedAt": "2026-09-20T16:18:07.4660542Z"
+  "targetMachineId": "5A0CED7FC80A0CE00C40DB3E404B966BA4C85FB00B50F7E7ABF5629151B40502",
+  "releasedAt": "2026-09-20T17:32:49.9845896Z"
 }
