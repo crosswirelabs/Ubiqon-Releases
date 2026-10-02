@@ -1,19 +1,19 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "type": "bugfix",
   "description": "test",
   "assets": {
     "linux-arm": {
-      "downloadUrl": "https://github.com/crosswirelabs/Ubiqon-Releases/releases/download/v1.0.10/Ubiqon-1.0.10-linux-arm.tar.gz",
-      "sha256": "77d5e5965554c084bf17e3c88fb01a0c628c7ce2e110a7f1f317b53ec03c78f7"
+      "downloadUrl": "https://github.com/crosswirelabs/Ubiqon-Releases/releases/download/v1.0.11/Ubiqon-1.0.11-linux-arm.tar.gz",
+      "sha256": "098c76de7346ed5bcb3a89bc6900759355ccabd2a4af8adb67a8ba859ebe197b"
     },
     "linux-x64": {
-      "downloadUrl": "https://github.com/crosswirelabs/Ubiqon-Releases/releases/download/v1.0.10/Ubiqon-1.0.10-linux-x64.tar.gz",
-      "sha256": "9a2e036078f07b63675739fe5e8d3844a3c9d69680985bb689d1b4ebdf9fd8b0"
+      "downloadUrl": "https://github.com/crosswirelabs/Ubiqon-Releases/releases/download/v1.0.11/Ubiqon-1.0.11-linux-x64.tar.gz",
+      "sha256": "d2f69e151e187a7450df6516d8d5a9d0f15b178cf14a060dfb5520eacf70f03c"
     }
   },
   "minimumVersion": "1.0",
   "restartRequired": true,
-  "targetMachineId": "E2EB48B37C8330B77E74B316DB4E41BA45792CB51ED2235CCEE4857ED68F5583",
-  "releasedAt": "2026-10-02T08:48:55.9364304Z"
+  "targetMachineId": "FDD547A9729C6B7F0B584C9CFDFAFD6055660119AE4441AE7524EB8E42F5EF40",
+  "releasedAt": "2026-10-02T09:49:34.0375887Z"
 }
